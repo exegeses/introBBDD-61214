@@ -25,7 +25,7 @@
 
 > Para filtrar resultados utilizamos una condición  
 > La condicion se implementa con la palabra reservada  
-> *** WHERE ***  
+> ***WHERE***  
 
 
 > Traer nombre y precio de los destinos  
@@ -53,7 +53,7 @@
          AND destPrecio >= 6600  
         ORDER BY destPrecio;  
 
-> Misma cuonsulta con la palabra *** BETWEEN *** 
+> Misma cuonsulta con la palabra ***BETWEEN*** 
 
     SELECT destNombre, destPrecio  
         FROM destinos  
