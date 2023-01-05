@@ -3,7 +3,7 @@
 > Cuando queremos traer información de más de una tabla
 > (dos a más) debemos relacionar ambas tablas  
 
-> La técnica "Table relation" iguala el campo en com´´un a ambas tablas.  
+> La técnica "Table relation" iguala el campo en común a ambas tablas.  
  
     SELECT destNombre, destPrecio, regNombre  
         FROM destinos, regiones  
